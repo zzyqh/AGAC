@@ -17,5 +17,5 @@ datasets normalized by FPKM, we first converted them to TPM.
 
 # Usage
 ```
-python AGAC.py --name [goolam|biase]
+python AGAC.py --name [Chung|Biase]
 ```
