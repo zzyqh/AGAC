@@ -1,6 +1,7 @@
 # AGAC
 Accurately Clustering Single-cell RNA-seq data by 
-fusing node attribute features and graph structural features adaptively
+fusing node attribute features and graph structural features adaptively.
+The experiment used 13 datasets, many of which were large and inconvenient to transfer. All datasets have been packaged into a zip package and uploaded. And you can extract it to the data folder to continue running.
 
 # Requirement
 Python 3.6.9
